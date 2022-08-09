@@ -1,0 +1,8 @@
+{
+    "subject": "111-1 預選密碼發放", 
+    "from": "臺大電機系學會學術部",
+    "recipientList": "./recipient/try.csv",
+    "letter": "./letters/try.html",
+    "email": { "index": 0, "@ntu.edu.tw": true },
+    "substitute": { "name": 1, "account": 2, "password": 3 }
+}
